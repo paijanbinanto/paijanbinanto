@@ -23,7 +23,7 @@ img {
 
 <h2>Rounded Images</h2>
 
-<img src="img_avatar.png" alt="Avatar" style="width:200px">
+<img src="https://cdn0-production-images-kly.akamaized.net/rq8SQB5kwKbU8uNh0YKcl9-cHFc=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4184062/original/044887000_1665125823-Anime-Kage-no-Jitsuryokusha-ni-Naritakute-Mengungkapkan-Video-Promo-Barunya.jpg" alt="Avatar" style="width:200px">
 
 </body>
 </html> 
